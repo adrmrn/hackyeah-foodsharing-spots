@@ -1,0 +1,17 @@
+ip: 192.168.13.13
+memory: 2048
+cpus: 2
+provider: virtualbox
+authorize: ~/.ssh/id_rsa.pub
+keys:
+    - ~/.ssh/id_rsa
+folders:
+    - map: /path/to/project/on/your/local/machine/foodsharing-spot
+      to: /home/vagrant/code
+sites:
+    - map: foodsharing-spot.localhost
+      to: /home/vagrant/code/public
+databases:
+    - foodsharing-spot
+name: foodsharing-spot
+hostname: foodsharing-spot

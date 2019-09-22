@@ -1,0 +1,6 @@
+Core\Spot\Domain\Model\Spot\Localization\Address:
+  type: embeddable
+  fields:
+    street: { type: string }
+    city: { type: string }
+    postalCode: { type: string, column: postal_code }

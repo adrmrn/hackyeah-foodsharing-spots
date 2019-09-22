@@ -1,0 +1,3 @@
+## Foodsharing Spots
+
+Documentation will be ready soon...

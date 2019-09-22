@@ -1,0 +1,20 @@
+Core\Spot\Domain\Model\Spot:
+  type: entity
+  table: spots
+  id:
+    id:
+      type: SpotId
+      generator:
+        strategy: NONE
+  fields:
+    name:
+      type: SpotName
+    description:
+      type: SpotDescription
+    isOpenRoundTheClock:
+      type: boolean
+      column: is_open_round_the_clock
+  embedded:
+    localization:
+      class: Core\Spot\Domain\Model\Spot\Localization
+      columnPrefix: localization_

@@ -1,0 +1,14 @@
+Core\Spot\Domain\Model\Equipment:
+  type: entity
+  table: equipments
+  id:
+    id:
+      type: EquipmentId
+      generator:
+        strategy: NONE
+  fields:
+    spotId:
+      type: SpotId
+      column: spot_id
+    type:
+      type: EquipmentType

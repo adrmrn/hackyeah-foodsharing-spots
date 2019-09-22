@@ -1,0 +1,9 @@
+Core\Spot\Domain\Model\Spot\Localization:
+  type: embeddable
+  embedded:
+    address:
+      class: Core\Spot\Domain\Model\Spot\Localization\Address
+      columnPrefix: false
+    coordinates:
+      class: Core\Spot\Domain\Model\Spot\Localization\Coordinates
+      columnPrefix: false

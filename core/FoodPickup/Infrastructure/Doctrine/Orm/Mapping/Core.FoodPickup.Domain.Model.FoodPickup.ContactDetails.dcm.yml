@@ -1,0 +1,6 @@
+Core\FoodPickup\Domain\Model\FoodPickup\ContactDetails:
+  type: embeddable
+  fields:
+    name: { type: string }
+    email: { type: string }
+    phone: { type: string }

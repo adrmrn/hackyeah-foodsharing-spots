@@ -1,0 +1,15 @@
+Core\FoodPickup\Domain\Model\FoodPickup:
+  type: entity
+  table: food_pickups
+  id:
+    id:
+      type: FoodPickupId
+      generator:
+        strategy: NONE
+  fields:
+    status:
+      type: FoodPickupStatus
+  embedded:
+    contactDetails:
+      class: Core\FoodPickup\Domain\Model\FoodPickup\ContactDetails
+      columnPrefix: contact_details_

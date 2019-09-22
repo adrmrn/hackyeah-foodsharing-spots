@@ -1,0 +1,1579 @@
+[
+	{
+        "name": "LO Żeromskiego",
+        "description": "Jadłodzielnia znajduję się przy liceum od strony ul. Wilsona. Szafka i lodówka dostępne 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Bohaterów Warszawy 20",
+            "city": "Bielsko-Biała",
+            "postalCode": "43-300",
+            "coordinates": {
+                "latitude": "49.821079",
+                "longitude": "19.049080"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+            	"type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Kościuszki",
+        "description": "ul. Kościuszki 26, pon-sob 07:00 - 18.00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Kościuszki 26",
+            "city": "Bogatynia",
+            "postalCode": "59-916",
+            "coordinates": {
+                "latitude": "50.902400",
+                "longitude": "14.959160"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+            	"type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "WSG",
+        "description": "Otwarte codziennie 8-20 strona na FB: https://www.facebook.com/Jad%C5%82odzielnia-WSG-Karmnik-1449566785088417/",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "ul. Królowej Jadwigi 14",
+            "city": "Bydgoszcz",
+            "postalCode": "85-231",
+            "coordinates": {
+                "latitude": "53.129409",
+                "longitude": "17.993074"
+            }
+        },
+        "equipments": [
+            {
+            	"type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Małeckich",
+        "description": "ul Małeckich 3, szafka i lodówka, dostępne 24/7. FB: https://www.facebook.com/jadlodzielniaelk/",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Jana i Hieronima Małeckich 3",
+            "city": "Ełk",
+            "postalCode": "19-300",
+            "coordinates": {
+                "latitude": "53.824440",
+                "longitude": "22.351530"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+            	"type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "100cznia",
+        "description": "Dostępna tylko lodówka, wolnostojąca - na terenie przestrzeni kulturalno-gastronomicznej 100cznia. Dostępna całą dobę. Jadłodzielnia działa sezonowo - od maja do września.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Popiełuszki 5",
+            "city": "Gdańsk",
+            "postalCode": "80-863",
+            "coordinates": {
+                "latitude": "54.362141",
+                "longitude": "18.651680"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Tarpno",
+        "description": "Targowisko Miejskie Tarpno, ul. Paderewskiego, przy samym wejściu, otwarte codziennie 9-17",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Ignacego Paderewskiego 5",
+            "city": "Grudziądz",
+            "postalCode": "86-302",
+            "coordinates": {
+                "latitude": "53.501220",
+                "longitude": "18.776770"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Piastowska",
+        "description": "Jadłodzielnia przylega do sklepu Kupiec. Lodówka i szafka dostępne 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Piastowska 12",
+            "city": "Jedlina-Zdrój",
+            "postalCode": "58-330",
+            "coordinates": {
+                "latitude": "50.724170",
+                "longitude": "16.348410"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Wielkopolska",
+        "description": "Jadłodzielnia w postaci budki stoi na małym parkingu za sklepem Stokrotka, szafka i lodówka, otwarte codziennie od 9:00 do 18:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Aleja Józefa Piłsudskiego 18a",
+            "city": "Jastrzębie-Zdrój",
+            "postalCode": "44-335",
+            "coordinates": {
+                "latitude": "49.952870",
+                "longitude": "18.604880"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Antykwariat PiBook",
+        "description": "Jadłodzielnia dostępna od poniedziałku do soboty w godzinach 9-17. Punkt znajduje się w drugim pomieszczeniu lokalu – po wejściu należy iść prosto do samego końca. Po prawej stronie zobaczycie lodówkę oraz regał.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Stefana Batorego 5",
+            "city": "Kraków",
+            "postalCode": "33-332",
+            "coordinates": {
+                "latitude": "50.067510",
+                "longitude": "19.932450"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Spółdzielnia Ogniwo",
+        "description": "I piętro, lodówka i szafka, otwarte  codziennie w godzinach 16:00 - 22:00",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Paulińska 28",
+            "city": "Kraków",
+            "postalCode": "33-332",
+            "coordinates": {
+                "latitude": "50.050190",
+                "longitude": "19.940530"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Roślinny",
+        "description": "Jadłodzielnia znajduje się w sklepie Roślinny (na drugiej sali, po lewej stronie) na Rynku Dębickim 10. Dostępna pon-pt 10:00-19:00, sob 10:00-14:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Rynek Dębnicki 10",
+            "city": "Kraków",
+            "postalCode": "30-318",
+            "coordinates": {
+                "latitude": "50.051260",
+                "longitude": "19.926540"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Targowisko nr 1",
+        "description": "Targowisko nr 1, pawilon 197, lodówka i szafka.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Aleja Tysiąclecia 2A",
+            "city": "Lublin",
+            "postalCode": "20-400",
+            "coordinates": {
+                "latitude": "52.035820",
+                "longitude": "23.127980"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "EkSoc",
+        "description": "Wydział Ekonomiczno-Socjologiczny Uniwersytetu Łódzkiego, ul. Polskiej Organizacji Wojskowej 3/5, szafka i lodówka, pn-pt 6-20, sob 7-20, ndz 8-18. Na Wydział wchodzimy od strony ul. P.O.W. 3/5 i kierujemy się schodkami na dół do szatni budynku D.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Polskiej Organizacji Wojskowej 3",
+            "city": "Łódź",
+            "postalCode": "90-001",
+            "coordinates": {
+                "latitude": "51.775100",
+                "longitude": "19.465450"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Zielony Rynek",
+        "description": "Jadłodzielnia znajduje się przy Zielonym Rynku na ul. Farbiarskiej 17/19. Szafka i lodówka dostępne codziennie od 8:00 do 17:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Farbiarska 17/19",
+            "city": "Mosina",
+            "postalCode": "62-050",
+            "coordinates": {
+                "latitude": "52.244380",
+                "longitude": "16.854110"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Kraszewskiego",
+        "description": "Szafka i lodówka, otwarte codziennie 8:00-21:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Józefa Ignacego Kraszewskiego 18",
+            "city": "Pruszków",
+            "postalCode": "05-803",
+            "coordinates": {
+                "latitude": "52.162570",
+                "longitude": "20.812220"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Pub Kultura",
+        "description": "Otwarte w godzinach 10:00-22:00, tylko lodówka",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Fryderyka Szopena 59",
+            "city": "Rzeszów",
+            "postalCode": "35-055",
+            "coordinates": {
+                "latitude": "50.031550",
+                "longitude": "22.000740"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "CIS",
+        "description": "Przy Centrum Integracji Społecznej lodówka i szafka czynne: poniedziałek - piątek 07:00-15:00",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Stefana Jaracza 9",
+            "city": "Słupsk",
+            "postalCode": "76-200",
+            "coordinates": {
+                "latitude": "54.462370",
+                "longitude": "17.028740"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Żółkiewskiego",
+        "description": "Otwarte we wtorki i czwartki 11:00-17:00, w soboty 09:30 - 12:00. Dtrona na FB: https://www.facebook.com/Jad%C5%82odzielnia-Szczecin-1831781530438716/ Strona www: http://www.jadlodzielniaszczecin.pl/",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Stanisława Żółkiewskiego 4",
+            "city": "Szczecin",
+            "postalCode": "70-345",
+            "coordinates": {
+                "latitude": "53.430290",
+                "longitude": "14.536510"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Ryneczek Kilińskiego",
+        "description": "Kilińskiego 1, Ryneczek, Pawilon 65. Otwarte: wtorek i czwartek 11:00-17:00 oraz sobota 09:30-12:00. Strona www: http://www.jadlodzielniaszczecin.pl/",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Plac Kilińskiego 1",
+            "city": "Szczecin",
+            "postalCode": "71-899",
+            "coordinates": {
+                "latitude": "53.440979",
+                "longitude": "14.548290"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Stowarzyszenie Stołczyn Po Sąsiedzku",
+        "description": "Szafka przy Stowarzyszeniu Stołczyn Po Sąsiedzku, 24/7",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Nad Odrą 18",
+            "city": "Szczecin",
+            "postalCode": "71-828",
+            "coordinates": {
+                "latitude": "53.491421",
+                "longitude": "14.612110"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "C.H.U. Manhattan",
+        "description": "Centrum Handlowe Manhattan, szafka, niedaleko sklepu Netto, 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Księdza Stanisława Staszica 1",
+            "city": "Szczecin",
+            "postalCode": "71-515",
+            "coordinates": {
+                "latitude": "53.443000",
+                "longitude": "14.551470"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Targowisko Zdroje",
+        "description": "Targowisko Zdroje, szafka, czynna do godz. 18:00, później można przekazywać dary przez portiernię.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Młodzieży Polskiej 26B",
+            "city": "Szczecin",
+            "postalCode": "70-774",
+            "coordinates": {
+                "latitude": "53.381850",
+                "longitude": "14.634610"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Rzemieślnicza",
+        "description": "Lodówka i szafka, otwarte pon-pt 11:00-12:00",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Rzemieślnicza 2",
+            "city": "Szczecinek",
+            "postalCode": "78-400",
+            "coordinates": {
+                "latitude": "53.706900",
+                "longitude": "16.698110"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Chrobrego",
+        "description": "Szafka i lodówka, wolnostojące, czynne 24/7, dodatkowo jest też wieszak do dzielenia się ubraniami.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Bolesława Chrobrego 1",
+            "city": "Szczytno",
+            "postalCode": "12-100",
+            "coordinates": {
+                "latitude": "53.561930",
+                "longitude": "20.990280"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "BAZAR",
+        "description": "Lodówka znajduje się w Centrum Handlowym BAZAR i jest dostępna: pn-sob: 07:00-21:00, ndz: 09:00-17:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Hodowlana 6",
+            "city": "Tarnów",
+            "postalCode": "33-100",
+            "coordinates": {
+                "latitude": "50.017070",
+                "longitude": "20.958200"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Targowisko Manhattan",
+        "description": "Box nr 27, otwarte codziennie 06:00-22:00. Strona na FB: https://www.facebook.com/jadlodzielnia.torun",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Zygmunta Działowskiego 11",
+            "city": "Toruń",
+            "postalCode": "87-100",
+            "coordinates": {
+                "latitude": "53.027670",
+                "longitude": "18.666300"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Waryńskiego",
+        "description": "Waryńskiego 19, otwarte 24/7, strona na FB: https://www.facebook.com/jadlodzielnia.torun",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Ludwika Waryńskiego 23/25",
+            "city": "Toruń",
+            "postalCode": "87-100",
+            "coordinates": {
+                "latitude": "53.015500",
+                "longitude": "18.623450"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "DS nr 3",
+        "description": "Otwarte codziennie 07:00-20:00. Strona na FB: https://www.facebook.com/jadlodzielnia.torun",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Stanisława Moniuszki 18",
+            "city": "Toruń",
+            "postalCode": "87-100",
+            "coordinates": {
+                "latitude": "53.012020",
+                "longitude": "18.593400"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Pasaż Andromeda",
+        "description": "Lodówka i szafka, czynne codziennie 09:00-20:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Plac Krzysztofa Kamila Baczyńskiego 2",
+            "city": "Tychy",
+            "postalCode": "43-100",
+            "coordinates": {
+                "latitude": "50.126370",
+                "longitude": "18.982290"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Stawki, Wydział Psychologii",
+        "description": "Wydział Psychologii UW, szafka i lodówka, otwarte codziennie 08:00-21:00. UWAGA! Czasem budynek może być zamknięty w tych godzinach - ale nie przejmujcie się - wtedy wystarczy zadzwonić dzwonkiem przy drzwiach (przy furtce) i pan stróż, który jest w budynku, wpuści was do Jadłodzielni :) Strona na FB: https://www.facebook.com/FoodsharingWarszawa/",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Stawki 5",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.252640",
+                "longitude": "20.990500"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Jazdów, Motyka i Słońce",
+        "description": "Domek Motyka i Słońce, tylko szafka, dostępna 24/7. UWAGA! Jadłodzielnia sezonowa, czynna tylko w ciepłej połowie roku! Strona na FB: https://www.facebook.com/FoodsharingWarszawa/",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Jazdów 3/9",
+            "city": "Warszawa",
+            "postalCode": "00-467",
+            "coordinates": {
+                "latitude": "52.221310",
+                "longitude": "21.028210"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Stół Powszechny",
+        "description": "Jadłodzielnia znajduje się w kawiarni Stół Powszechny w budynku Teatru Powszechnego. Szafka na zewnątrz, dostępna 24/7, lodówka w środku, otwarta codziennie 11:00-22:00.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Zamoyskiego 20",
+            "city": "Warszawa",
+            "postalCode": "03-801",
+            "coordinates": {
+                "latitude": "52.247311",
+                "longitude": "21.048410"
+            }
+        },
+        "equipments": [
+        	{
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Krupnicza",
+        "description": "Społeczna lodówka powstała z inicjatywy Klubu Sportowego Gwardia Wrocław oraz przy wsparciu Fundacji Weź Pomóż.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Krupnicza 15",
+            "city": "Wrocław",
+            "postalCode": "50-043",
+            "coordinates": {
+                "latitude": "51.107480",
+                "longitude": "17.025610"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Krzyki",
+        "description": "Społeczna lodówka powstała z inicjatywy Parafii Św, Henryka we Wrocławiu oraz przy wsparciu Fundacji Weź Pomóż.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Gliniana 16",
+            "city": "Wrocław",
+            "postalCode": "50-525",
+            "coordinates": {
+                "latitude": "51.094190",
+                "longitude": "17.034060"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Szczepin",
+        "description": "Społeczna lodówka powstała z inicjatywy Wrocławskiego Centrum Integracji, Towarzystwa Pomocy im. św. Brata Alberta ― Koło Wrocławskie! oraz przy wsparciu Fundacji Weź Pomóż.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Strzegomska 49",
+            "city": "Wrocław",
+            "postalCode": "53-611",
+            "coordinates": {
+                "latitude": "51.116080",
+                "longitude": "16.995410"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Ołbin",
+        "description": "Społeczna lodówka powstała z inicjatywy Parafii św. Wawrzyńca i Rady Osiedla Ołbin oraz przy wsparciu Fundacji Weź Pomóż. Jak trafić? Lodówka znajduje się przy kościele. Punkt czynny w godz. 8-19.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Odona Bujwida 51",
+            "city": "Wrocław",
+            "postalCode": "50-368",
+            "coordinates": {
+                "latitude": "51.117940",
+                "longitude": "17.067450"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Przedmieście Świdnickie",
+        "description": "Lodówka - ul. Grabiszyńska 56 (Przedmieście Świdnickie). Opis: Społeczna lodówka powstała z inicjatywy Kawiarni Sąsiedzkiej, Firlej - Ośrodek Działań Artystycznych, Rady Osiedla Przedmieście Świdnicki oraz przy wsparciu Fundacji Weź Pomóż. Jak trafić? Lodówka znajduje się przy Kawiarni Sąsiedzkiej. Punkt czynny całą dobę.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Grabiszyńska 56",
+            "city": "Wrocław",
+            "postalCode": "50-504",
+            "coordinates": {
+                "latitude": "51.102420",
+                "longitude": "17.014560"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Stare Miasto",
+        "description": "Społeczna lodówka powstała z inicjatywy Kamienicy pod Aniołami, Parafii Ewangelicko-Augsburskej Opatrzności Bożej, Rady Osiedla Stare Miasto oraz przy wsparciu Fundacji Weź Pomóż. Jak trafić? Lodówka znajduje się przy Kamienicy pod Aniołami. Punkt czynny całą dobę.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Kazimierza Wielkiego 31-33",
+            "city": "Wrocław",
+            "postalCode": "50-077",
+            "coordinates": {
+                "latitude": "51.107480",
+                "longitude": "17.032170"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Zakrzów",
+        "description": "Społeczna lodówka powstała z inicjatywy stowarzyszenia Zmieniaj Zakrzów (https://www.facebook.com/ZmieniajZakrzow/), Fundacji Przyjazny Dom im. Stanisława Jabłonki, Mieszkańców Zakrzowa oraz przy wsparciu Fundacji Weź Pomóż. Jak trafić? Lodówka znajduje się przy Fundacji Przyjazny Dom im. Stanisława Jabłonki. Punkt czynny całą dobę.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Okulickiego 2",
+            "city": "Wrocław",
+            "postalCode": "51-216",
+            "coordinates": {
+                "latitude": "51.160530",
+                "longitude": "17.122120"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Grabiszyn",
+        "description": "Osiedlowa Lodówka Społeczna powstała z inicjatywy Rady Osiedla Powstańców Śląskich. Punkt czynny całą dobę. Jak trafić? Lodówka przed siedzibą Rady Osiedla Powstańców Śląskich, niedaleko kościoła przy ul. Kruczej. Jest widoczna z ulicy.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Gajowicka 96a",
+            "city": "Wrocław",
+            "postalCode": "53-422",
+            "coordinates": {
+                "latitude": "51.094780",
+                "longitude": "17.010970"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Osobowice",
+        "description": "Osiedlowa Lodówka Społeczna powstała z inicjatywy Rady Osiedla Powstańców Śląskich. Punkt czynny całą dobę. Jak trafić? Lodówka przed siedzibą Rady Osiedla Powstańców Śląskich, niedaleko kościoła przy ul. Kruczej. Jest widoczna z ulicy. FB: https://www.facebook.com/wezpomoz/videos/215514359026550/",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Osobowicka 129",
+            "city": "Wrocław",
+            "postalCode": "51-004",
+            "coordinates": {
+                "latitude": "51.143300",
+                "longitude": "16.989650"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Szczepin - Zachodnia",
+        "description": "Społeczna lodówka powstała z inicjatywy organizacji Weźpomóż.pl (http://wezpomoz.pl/). Punkt czynny całą dobę. Jak trafić? Lodówka przy Radzie Osiedla Szczepin",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Zachodnia 1",
+            "city": "Wrocław",
+            "postalCode": "53-643",
+            "coordinates": {
+                "latitude": "51.115500",
+                "longitude": "17.015860"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Klaudyny",
+        "description": "Lodówka służąca jako szafka stoi przy altanie przy ul. Klaudyny 26B. Jest dostępna 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Klaudyny 26B",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.282970",
+                "longitude": "20.973580"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Jadłodzielnia Syrena",
+        "description": "Wilcza 30, Jadłodzielnia czynna 24/7. Szafka  jest widoczna z ulicy, mieści się w witrynie zewnętrznej strony kamienicy, lodówka za bramą, również dostępna całą dobę. UWAGA! w sezonie zimowym  dostępna jest tylko szafka, lodówka na zimę jest chowana.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Wilcza 30",
+            "city": "Warszawa",
+            "postalCode": "00-544",
+            "coordinates": {
+                "latitude": "52.225120",
+                "longitude": "21.016460"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Punkt w OIK",
+        "description": "Ośrodek Interwencji Kryzysowej, ul. Karola Szymanowskiego 5a, szafka i lodówka.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Karola Szymanowskiego 5a",
+            "city": "Sosnowiec",
+            "postalCode": "41-219",
+            "coordinates": {
+                "latitude": "50.301460",
+                "longitude": "19.189810"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Punkt w Urzędzie Miasta",
+        "description": "Urząd Miasta, parter, tylko szafka",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "3 maja 33",
+            "city": "Sosnowiec",
+            "postalCode": "41-200",
+            "coordinates": {
+                "latitude": "50.280330",
+                "longitude": "19.132640"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Punkt w SCOP",
+        "description": "Sosnowieckie Centrum Organizacji Pozarządowych, pl. Kościuszki 5",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "plac Kościuszki 5",
+            "city": "Sosnowiec",
+            "postalCode": "41-205",
+            "coordinates": {
+                "latitude": "50.287800",
+                "longitude": "19.142890"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Lodówka Sierpecka",
+        "description": "ul. Piastowska 42, pomiędzy sklepem Foral a apteką, lodówka, czynna 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Piastowska 42",
+            "city": "Sierpc",
+            "postalCode": "09-200",
+            "coordinates": {
+                "latitude": "52.849890",
+                "longitude": "19.662840"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Jadłodzielnia Wildecka",
+        "description": "Rynek wildecki, stragan 78, tylko skrzynki, czynne 24/7",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Stragan 78",
+            "city": "Poznań",
+            "postalCode": "61-568",
+            "coordinates": {
+                "latitude": "52.399410",
+                "longitude": "16.921440"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Współdzielnia na Targowisku",
+        "description": "Targowisko Miejskie, ul. Ludowa, 11b, lodówki i szafki, miejsce działające niezależnie od Foodsharing Polska, zarówno do dzielenia się jedzeniem, jak i innymi produktami. czynne pon-sob 9-15",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Ludowa 11B",
+            "city": "Piła",
+            "postalCode": "64-920",
+            "coordinates": {
+                "latitude": "53.150960",
+                "longitude": "16.750120"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Lodówka fundacji Weź Pomóż",
+        "description":" Punkt przy kościele Rzymskokatolickim Pw. Miłosierdzia Bożego w Obornikach.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Droga Leśna 60",
+            "city": "Oborniki",
+            "postalCode": "64-600",
+            "coordinates": {
+                "latitude": "52.651810",
+                "longitude": "16.796820"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Lodówka przy Królewskiej",
+        "description":" Tylko lodówka, na terenie firmy Pikomp w Milanówku przy ul. Królewskiej 61A vis a vis stacji kolejki WKD Milanówek-Grudów.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Królewska 61A",
+            "city": "Milanówek",
+            "postalCode": "05-822",
+            "coordinates": {
+                "latitude": "52.122532",
+                "longitude": "20.682329"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Lodówka dla Głodnych",
+        "description":"Noclegownia dla Bezdomnych Mężczyzn. ",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Towarowa 10",
+            "city": "Leszno",
+            "postalCode": "61-100",
+            "coordinates": {
+                "latitude": "51.846420",
+                "longitude": "16.566970"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Tytano",
+        "description":"Przy stróżówce, przy wjeździe/wyjeździe na teren Tytano., koło szlabanu. Lodówka i szafka.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "ul. Dolnych Młynów 10",
+            "city": "Kraków",
+            "postalCode": "31-124",
+            "coordinates": {
+                "latitude": "50.064610",
+                "longitude": "19.927360"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "OSP Skolimów",
+        "description":"Szafka i lodówka, punkt przy Ochotniczej Straży Pożarnej Skolimów. Dostępne codziennie 24h/dobę.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "ul. Pułaskiego 72",
+            "city": "Konstancin-Jeziorna",
+            "postalCode": "05-510",
+            "coordinates": {
+                "latitude": "52.084810",
+                "longitude": "21.088750"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Punkt Fundacji Sercem Przyprawione",
+        "description":"Całe pomieszczenie : lodówka i szafki. Czynne: pon-sob 9-18, nd 12-16..",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "3 Maja 43",
+            "city": "Konin",
+            "postalCode": "62-500",
+            "coordinates": {
+                "latitude": "52.205600",
+                "longitude": "18.254340"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Kochłowice",
+        "description":"punkt wolnostojący, z lodówką i szafką, dostępna 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Oświęcimska 123",
+            "city": "Ruda Śląska",
+            "postalCode": "41-707",
+            "coordinates": {
+                "latitude": "50.253230",
+                "longitude": "18.903760"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Wspólna spiżarnia",
+        "description":"Brak informacji",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Gdańska 79",
+            "city": "Bydgoszcz",
+            "postalCode": "85-005",
+            "coordinates": {
+                "latitude": "53.137190",
+                "longitude": "18.015040"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Centrum Aktywności Społecznej",
+        "description":"Punkt znajduje się przy Centrum Aktywności Społecznej. Otwarte pon-pt 8-18, sob 9-14. Szafka i lodówka. Punktem opiekuje się Fundacja Spe Salvi.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Krakowska 1",
+            "city": "Białystok",
+            "postalCode": "15-875",
+            "coordinates": {
+                "latitude": "53.134020",
+                "longitude": "23.146170"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Spichlerz Brata Alberta",
+        "description":"Przy kościele św. Brata Alberta, szafki oraz lodówka, otwarte codziennie 7-19.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Edwarda Dembowskiego 24",
+            "city": "Zamość",
+            "postalCode": "22-400",
+            "coordinates": {
+                "latitude": "50.737340",
+                "longitude": "23.259930"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Polski Komitet Pomocy Społecznej",
+        "description":"Jadłodzielnia całodobowa, wolnostojąca, z szafką i lodówką.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "ul. Moniuszki 35",
+            "city": "Zielona Góra",
+            "postalCode": "65-409",
+            "coordinates": {
+                "latitude": "51.933700",
+                "longitude": "15.499090"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "HART Hostel & Art",
+        "description":" Dziedziniec artystyczny, przy HART - Hostel & Art. Czynne całą dobę. FB:  https://www.facebook.com/Wspolnalodowkananadodrzu/ oraz https://www.facebook.com/foodsharingwroclaw/.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "ul.Ludwika Rydygiera 25a",
+            "city": "Wrocław",
+            "postalCode": "50-248",
+            "coordinates": {
+                "latitude": "51.119350",
+                "longitude": "17.033530"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Zieleniak",
+        "description":"Lodówka dostępna przy ul. Grójeckiej 97. Za chwilę pojawi się także szafka. Dostępne 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Grójecka 97",
+            "city": "Warszawa",
+            "postalCode": "02-120",
+            "coordinates": {
+                "latitude": "52.211120",
+                "longitude": "20.976810"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Otwarta Ząbkowska",
+        "description":"Lodówka znajduje się przy lokalu Bar Bazaar i jest dostępna: pon-wt: 6-18, śr-ndz: 6-24.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Ząbkowska 12",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.253040",
+                "longitude": "21.039900"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Smocza",
+        "description":"Jadłodzielnia znajduje się w wejściu do Cafe PoWoli przy ul. Smoczej 3. Lodówka dostępna od poniedziałku do piątku w godzinach 9:00-18:00 i w soboty 10:00-16:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Smoczej 3",
+            "city": "Warszawa",
+            "postalCode": "00-151",
+            "coordinates": {
+                "latitude": "52.242950",
+                "longitude": "20.986840"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Wincentego",
+        "description":"Jadłodzielnia znajduję się przy wejściu do Biblioteki oraz Środowiskowego Domu Samopomocy. Szafka dostępna pon-pt 8:00-19:00.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "św. Wincentego 85",
+            "city": "Warszawa",
+            "postalCode": "03-341",
+            "coordinates": {
+                "latitude": "52.286920",
+                "longitude": "21.047160"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "OPS Chatka Puchatka",
+        "description":"Jadłodzielnia znajduje się przy budynku OPS Chatka Puchatka na ul. Węgrowska 3/5. Szafka dostępna 24h na dobę.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Węgrowska 3",
+            "city": "Warszawa",
+            "postalCode": "03-507",
+            "coordinates": {
+                "latitude": "52.268680",
+                "longitude": "21.048310"
+            }
+        },
+        "equipments": [
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "OPS WCK Działdowska",
+        "description":"Szafka i lodówka dostępne: pon-pt 8-21,  sob-ndz 12-20.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Działdowska 6",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.234690",
+                "longitude": "20.967510"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "OPS Praga-Południe",
+        "description":"Jadłodzielnia znajduje się w Ośrodku Pomocy Społecznej na Wiatracznej 11. Dostępne szafka i lodówka. Z Jadłodzielni korzystać można w godzinach otwarcia OPS: pon.-pt. 8-16.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Wiatraczna 11",
+            "city": "Warszawa",
+            "postalCode": "04-366",
+            "coordinates": {
+                "latitude": "52.247070",
+                "longitude": "21.083950"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "KEN",
+        "description":"Jadłodzielnia znajduje się przy Ratuszu Ursynów na Komisji Edukacji Narodowej 61. Lodówka i szafka są dostępne 24/7.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Aleja Komisji Edukacji Narodowej 61",
+            "city": "Warszawa",
+            "postalCode": "02-777",
+            "coordinates": {
+                "latitude": "52.147450",
+                "longitude": "21.048890"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Urząd Dzielnicy Żoliborz",
+        "description":"Jadłodzielnia to wolnostojąca szafka z lodówką, na tyłach budynku Urzędu Dzielnicy Żoliborz. Czynna 24/7.",
+        "isOpenRoundTheClock": true,
+        "localization": {
+            "street": "Słowackiego 6/8",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.242580",
+                "longitude": "21.209350"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "MAL Dwa Jelonki",
+        "description":"Lodówka i szafka.",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Powstańców Śląskich 44",
+            "city": "Warszawa",
+            "postalCode": "01-381",
+            "coordinates": {
+                "latitude": "52.231479",
+                "longitude": "20.915431"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "CPS Śródmieście",
+        "description":"Jadłodzielnia mieści się w placówce Centrum Pomocy Społecznej dzielnicy Śródmieście. Lodówka i szafka, czynne pon-pt 8-16 (ew do 18)",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "ul. Twarda 1",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.235330",
+                "longitude": "21.010516"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Paca",
+        "description":"Centrum Społeczne Paca. Szafka i lodówka, otwarte pon-pt 10-20, sb 10-18",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "ul. Michała Paca 40",
+            "city": "Warszawa",
+            "postalCode": "00-001",
+            "coordinates": {
+                "latitude": "52.248986",
+                "longitude": "21.083369"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "SGGW",
+        "description":"Wydział Technologii Drewna, Nowoursynowska 159, budynek 34, klatka B, lodówka i szafka, otwarte codziennie 8-22",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Nowoursynowska 159",
+            "city": "Warszawa",
+            "postalCode": "02-776",
+            "coordinates": {
+                "latitude": "52.151781",
+                "longitude": "21.059106"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    },
+    {
+        "name": "Bazar Lotników",
+        "description":"Bazar Lotników, Pawilon 83 A, otwarte pon-pt 7-19, sob 8-14. Al. Lotników 1. Strona na FB: https://www.facebook.com/FoodsharingWarszawa/",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Al.. Lotników 1",
+            "city": "Warszawa",
+            "postalCode": "02-668",
+            "coordinates": {
+                "latitude": "52.174093",
+                "longitude": "21.016717"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            }
+        ]
+    },
+    {
+        "name": "Karowa",
+        "description":"Instytut Socjologii UW, szafka i lodówka, otwarte codziennie 8-21. UWAGA! Czasem budynek może być zamknięty w tych godzinach - ale nie przejmujcie się - wtedy wystarczy zadzwonić dzwonkiem przy drzwiach (w futrynie) i pan stróż, który jest w budynku, wpuści was do Jadłodzielni :) strona na FB: https://www.facebook.com/FoodsharingWarszawa/",
+        "isOpenRoundTheClock": false,
+        "localization": {
+            "street": "Karowa 18",
+            "city": "Warszawa",
+            "postalCode": "00-324",
+            "coordinates": {
+                "latitude": "52.242740",
+                "longitude": "21.017665"
+            }
+        },
+        "equipments": [
+            {
+                "type": "fridge"
+            },
+            {
+                "type": "shelf"
+            }
+        ]
+    }
+]
