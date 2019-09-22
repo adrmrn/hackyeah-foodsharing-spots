@@ -6,7 +6,7 @@ authorize: ~/.ssh/id_rsa.pub
 keys:
     - ~/.ssh/id_rsa
 folders:
-    - map: /path/to/project/on/your/local/machine/foodsharing-spot
+    - map: /path/to/project/on/your/local/machine/hackyeah-foodsharing-spots
       to: /home/vagrant/code
 sites:
     - map: foodsharing-spot.localhost
