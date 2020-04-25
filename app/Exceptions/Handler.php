@@ -2,7 +2,9 @@
 
 namespace App\Exceptions;
 
+use Core\Common\Application\Exception\NotFoundException as NotFoundApplicationException;
 use Core\Common\Application\Exception\ValidationException;
+use Core\Common\Domain\Exception\NotFoundException as NotFoundDomainException;
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Illuminate\Http\JsonResponse;
@@ -54,6 +56,15 @@ class Handler extends ExceptionHandler
                 'code' => 422,
                 'errors' => $exception->errors()
             ], 422);
+        }
+
+        if ($exception instanceof NotFoundApplicationException
+            || $exception instanceof NotFoundDomainException
+        ) {
+            return new JsonResponse([
+                'message' => $exception->getMessage(),
+                'code' => 404
+            ], 404);
         }
 
         return parent::render($request, $exception);
