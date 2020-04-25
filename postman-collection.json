@@ -1,0 +1,146 @@
+{
+	"info": {
+		"_postman_id": "8adf1fb7-34fe-4113-aeff-b0914b8c3b27",
+		"name": "Foodsharing Spot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "API Status: /",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://192.168.13.13/",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"13",
+						"13"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all spots: /api/spot",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://192.168.13.13/api/spot",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"13",
+						"13"
+					],
+					"path": [
+						"api",
+						"spot"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all equipments for spot: /api/spot/{spotId}/equipment",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://192.168.13.13/api/spot/00000000-0000-0000-0000-000000000000/equipment",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"13",
+						"13"
+					],
+					"path": [
+						"api",
+						"spot",
+						"00000000-0000-0000-0000-000000000000",
+						"equipment"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create food pickup: /api/food-pickup",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\": \"John Doe\",\n\t\"email\": \"johndoe@gmail.com\",\n\t\"phone\": \"000000000\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://192.168.13.13/api/food-pickup",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"13",
+						"13"
+					],
+					"path": [
+						"api",
+						"food-pickup"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
