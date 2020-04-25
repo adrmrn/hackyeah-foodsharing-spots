@@ -21,36 +21,47 @@ Requirements:
 composer install
 ```
 
-2. Rename file `Homestead.yaml.dist` to `Homestead.yaml` and set path to the project on your local machine
+2. Copy and rename file `Homestead.yaml.dist` to `Homestead.yaml` and set path to the project on your local machine
 ```yaml
 folders:
     - map: /path/to/project/on/your/local/machine/hackyeah-foodsharing-spots
 ```
 
-3. Run vagrant
+3. Copy and rename file `.env.example` to `.env`
+
+4. Run vagrant
 ```bash
 vagrant up
 ```
 
-4. Run migrations
+5. Generate app key
+```bash
+vagrant ssh -c 'cd code && php artisan key:generate'
+```
+
+6. Run migrations
 ```bash
 vagrant ssh -c 'cd code && php artisan doctrine:migrations:migrate'
 ```
 
-5. Run seeder with example data sets
+7. Run seeder with example data sets
 ```bash
 vagrant ssh -c 'cd code && php artisan db:seed'
 ```
 
-6. To be sure, just regenerate composer autoload
+8. To be sure, just regenerate composer autoload
 ```bash
-vagrant ssh -c 'cd code && composer dump-autoload'
+composer dump-autoload
 ```
 
-7. To check if project is working fine, just send `GET` request to `http://192.168.13.13/api` URL. You should see `status: ok` as response.
+9. To check if project is working fine, just send `GET` request to `http://192.168.13.13/` URL. You should see `status: ok` as response.
 ```json
 Response: 200 OK
 {
   "status": "ok"
 }
 ```
+
+## Postman collection - API resources
+In main directory is placed `postman-collection.json` file with API resources.
+
