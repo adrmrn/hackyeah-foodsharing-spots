@@ -14,7 +14,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::pattern('uuid', '[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}');
+
 Route::get('/spot', '\App\Http\Controllers\Spot\SpotController@getSpots');
-Route::get('/spot/{spotId}/equipment', '\App\Http\Controllers\Spot\EquipmentController@getEquipmentsForSpot');
+Route::get('/spot/{uuid}/equipment', '\App\Http\Controllers\Spot\EquipmentController@getEquipmentsForSpot');
 
 Route::post('/food-pickup', '\App\Http\Controllers\FoodPickup\FoodPickupController@createFoodPickup');
