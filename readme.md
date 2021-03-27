@@ -1,6 +1,6 @@
 # Foodsharing Spots - API
 
-This project was creating during [Hackyeah - The biggest stationary hackathon in Europe](https://hackyeah.pl) in 24 hours. We were finalists in Environment category. You can read more about our team and solution [here](https://hackyeah.pl/winners-2019/#ENVIRONMENT).
+This project was creating during [Hackyeah - The biggest stationary hackathon in Europe](https://hackyeah.pl) in 24 hours. We were finalists in Environment category.
 
 This repository contains only an API. See a [live version of our demo app](http://foodsharing-spot.herokuapp.com/).
 ## Project overview
