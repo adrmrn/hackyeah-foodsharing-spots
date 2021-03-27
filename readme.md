@@ -22,11 +22,7 @@ Requirements:
 composer install
 ```
 
-2. Copy and rename file `Homestead.yaml.dist` to `Homestead.yaml` and set path to the project on your local machine
-```yaml
-folders:
-    - map: /path/to/project/on/your/local/machine/hackyeah-foodsharing-spots
-```
+2. Copy and rename file `Homestead.yaml.dist` to `Homestead.yaml`
 
 3. Copy and rename file `.env.example` to `.env`
 
