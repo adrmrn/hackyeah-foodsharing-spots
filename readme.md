@@ -2,7 +2,8 @@
 
 This project was creating during [Hackyeah - The biggest stationary hackathon in Europe](https://hackyeah.pl) in 24 hours. We were finalists in Environment category.
 
-This repository contains only an API. See a [live version of our demo app](http://foodsharing-spot.herokuapp.com/).
+_Note: This repository contains only an API._
+
 ## Project overview
 **Project name:** Foodsharing spots – no food waste  
 **What the project is about?**  
